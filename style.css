@@ -23,7 +23,7 @@
     display: flex;
     background-color: gray;
     margin: 0px 1px 0px 0px;
-    width: 100px;
+    width: 150px;
     height: 70px;
     
 
@@ -32,7 +32,7 @@
     display: flex;
     background-color: rgb(182, 180, 180);
     margin: 0px 1px 0px 10px;
-    width: 100px;
+    width: 150px;
     height: 30px;
     
 
@@ -41,7 +41,7 @@
     display: flex;
     background-color: rgb(182, 180, 180);
     margin: 0px 1px 0px 10px;
-    width: 100px;
+    width: 150px;
     height: 30px;
     
 
@@ -57,7 +57,7 @@
 .verysmall-container1{
     display: flex;
     background-color: rgb(182, 180, 180);
-     margin: 0px 10px 0px 380px; 
+     margin: 0px 10px 0px 377px; 
     width: 30px;
     height: 25px;
     /*327*/
@@ -81,12 +81,6 @@
     height: 25px; 
 }
 
-.arrow{
-    display: flex;
-    justify-content:end;
-    background-color: beige;
-    margin-left:50%;
-}
 
 .part2{
     display: flex;
@@ -115,7 +109,8 @@
 
 }
 .arrow{
-    margin-left: 947px;
+    display: flex;
+    margin-left: 798px;
     background-color:white;
 
 }
