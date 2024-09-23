@@ -242,7 +242,7 @@
 } 
 .text007{
     display: flex;
-    background-color: gray; 
+    background-color: rgb(182, 180, 180); 
     height: 15px;
     width: 230px;
     margin: 40px 0 0px 20px; 
@@ -266,32 +266,23 @@
 }
 .text008{
     display: flex;
-    background-color: gray; 
+    background-color: rgb(182, 180, 180); 
     height: 15px;
     width: 230px;
     margin: 19px 0 0px 20px; 
 }
 .text009  {
     display: flex;
-    background-color: gray; 
+    background-color: rgb(182, 180, 180); 
     height: 15px;
     width: 400px;
     margin: 19px 0 0px 0px; 
 }
-
-/*.text55{
+.text45{
     display: flex;
-    display: flex;
-    background-color: rgb(0, 68, 255); 
-    width: 100px;
-    height: 100px;
-    margin: 0 0 15px 0px;
+    background-color: gray; 
+    width: 400px;
+    height: 10px;
+    margin: 30px 0px 0px 0px;
 }
-.text24{
-    display: flex;
-    background-color: rgb(125, 231, 20); 
-    height: 15px;
-    width: 200px;
 
-
-} */
