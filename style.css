@@ -101,7 +101,7 @@
 }
 .mid-container{
     display: flex;
-    background-color:gray;
+    background-color:rgb(158, 158, 158);
     margin: 0px 0px 0px 90px;
     width: 400px;
     height: 400px;
@@ -130,14 +130,14 @@
 }
 .box1{
     display: flex;
-    background-color: gray; 
+    background-color: rgb(182, 180, 180); 
     height: 200px;
     width: 200px;
     margin: 0 0 15px 0px;
 }
 .box2{
     display: flex;
-    background-color: gray; 
+    background-color: rgb(182, 180, 180); 
     height: 200px;
     width: 200px;
     margin: 0 0 15px 75px;
@@ -167,7 +167,7 @@
     background-color: rgb(182, 180, 180); 
     height: 15px;
     width: 200px;
-    margin: 0 0 15px 0px; 
+    margin: 1px 0 15px 0px; 
 }
 
 .text4 {
@@ -221,7 +221,7 @@
 }
 .text44{
     display: flex;
-    background-color: gray; 
+    background-color: rgb(158, 158, 158); 
     width: 400px;
     height: 50px;
     margin: 0 0px 0px 0px;
@@ -231,7 +231,7 @@
     flex-direction:row;
     height: 152px;
     width: 152px;
-    background-color: gray;
+    background-color: rgb(182, 180, 180);
     margin: 40px 0px 0px 0px
 
 } 
